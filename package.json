@@ -1,0 +1,9 @@
+{
+  "name": "first-static-website",
+  "version": "1.0.0",
+  "description": "A beginner-friendly static website using HTML, CSS, and Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
